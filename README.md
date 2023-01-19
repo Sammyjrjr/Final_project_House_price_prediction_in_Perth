@@ -22,6 +22,6 @@ Random Forest
 KNeighbors
 Ridge
 Lasso
-
+Gridsearch
 
 
