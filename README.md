@@ -1,6 +1,6 @@
 # Final_project_house_price_prediction_in_Perth
 
-This project was a part of the Ironhack Data Analysis Bootcamp 2022 at Ironhack.
+This project was the final project of the Ironhack Data Analysis Bootcamp 2022.
 
 
  ## Table of Contents
