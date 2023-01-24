@@ -11,15 +11,15 @@
 
 
 # Project Description
+This was my final project about the sold houses in Perth between 1990 and 2020.
 
 
 
 
 # About the Dataset
-For this project we used a dataset from the 2019 StockX Data Contest. You can find the dataset [here](https://s3.amazonaws.com/stockx-sneaker-analysis/wp-content/uploads/2019/02/StockX-Data-Contest-2019-3.xlsx).
+For this project I used a dataset from kaggle You can find the dataset [here](https://www.kaggle.com/datasets/syuzai/perth-house-prices)
 
-The dataset consists of a random sample of all Off-White x Nike and Yeezy 350 sneaker transactions between 9/1/2017 and 13/02/2019. In total there  are 99.956 total sales in the data set. The sample consists of U.S. sales data only.
-
+The dataset consists of a sold houses transactions between 1990 and 2020. In total there  are 33656 rows and 19 columns.
 
 
 
@@ -32,8 +32,8 @@ The dataset consists of a random sample of all Off-White x Nike and Yeezy 350 sn
 - Numpy
 - Seaborn
 - Plotly
-- scikit-learn
-- math
+- Scikit-learn
+- Math
 - Tableau
 - Predictive models such as:
 	-  Linear Regression
@@ -43,5 +43,10 @@ The dataset consists of a random sample of all Off-White x Nike and Yeezy 350 sn
 	-  Lasso
   
   # Conclusion:
+### The features that have the most impact on the price are:
+### Floor area: It's the most important feature to decide the price.(e.g if you want a huge building space the price will be higher.)
+### Post code: the price increase depending on which Post code do you want to live(e.g near the coast or the CBD are expensive)
+### City center: the nearer to the center, the more expensive.
+### Latitude and Longitude: The orientation of the house also impacts in the price. (e.g the houses oriented to the east are expensive)
   
 
