@@ -1,14 +1,11 @@
-# Final_project_house_price_prediction_in_Perth
-
-This project was the final project of the Ironhack Data Analysis Bootcamp 2022.
-
+# Ironhack Final-project: House price prediction in Perth
 
  ## Table of Contents
  
 * [Project Description](#project-description)
 * [About the Dataset](#about-the-dataset)
 * [Methods and Tools used](#methods-and-tools-used)
-* [Additional analysis and deliverables](#additional-analysis-and-deliverables)
+* [Presentation](#Presentation)
 * [Conclusion](#conclusion)
 * [Authors](#authors)
 
@@ -27,9 +24,8 @@ The dataset consists of a random sample of all Off-White x Nike and Yeezy 350 sn
 
 
 
-# Additional analysis and deliverables 
-- [Tableau](https://public.tableau.com/views/Mid-ProjectFindthenexthype/Dashboard-MT?:language=de-DE&:display_count=n&:origin=viz_share_link)
-- [Canva](https://www.canva.com/design/DAFPg1KzOd8/ZAJ21FhgZSvIjoSRXVlNxw/view?utm_content=DAFPg1KzOd8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+# Presentation
+- [Canva]https://www.canva.com/design/DAFXssrx83o/yp4D8Bnn8RRqftFkCha7TQ/edit?utm_content=DAFXssrx83o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Methods and Tools used
 - Pandas
