@@ -1,8 +1,8 @@
 # Final_project_house_price_prediction_in_Perth
 
-Housing Price Analysis and Prediction
+# Housing Price Analysis and Prediction
 
-Final Bootcamp Project: Ironhack
+###Final Bootcamp Project: Ironhack
 Date: 21 Jan 2023
 
 
