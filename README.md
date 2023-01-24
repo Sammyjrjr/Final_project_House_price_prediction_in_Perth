@@ -7,7 +7,6 @@
 * [Methods and Tools used](#methods-and-tools-used)
 * [Presentation](#Presentation)
 * [Conclusion](#conclusion)
-* [Authors](#authors)
 
 
 # Project Description
