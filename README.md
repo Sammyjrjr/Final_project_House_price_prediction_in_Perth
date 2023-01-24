@@ -1,10 +1,19 @@
 # Final_project_house_price_prediction_in_Perth
 
-### Final Bootcamp Project: Ironhack
-Date: 21 Jan 2023
+This project was a part of the Ironhack Data Analysis Bootcamp 2022 at Ironhack.
+
+## Table of contents
+* [Project Description](#Project Description)
+* [About the Dataset](#About the Dataset)
+* [Methods and Tools used](# Methods and Tools used)
+* [Conclusion](# Conclusion)
+
+
+
 
 
 ### About the Dataset
+
 
 
 
