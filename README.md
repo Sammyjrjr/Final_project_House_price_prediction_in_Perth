@@ -43,10 +43,10 @@ The dataset consists of a sold houses transactions between 1990 and 2020. In tot
 	-  Lasso
   
   # Conclusion:
-### The features that have the most impact on the price are:
-### Floor area: It's the most important feature to decide the price.(e.g if you want a huge building space the price will be higher.)
-### Post code: the price increase depending on which Post code do you want to live(e.g near the coast or the CBD are expensive)
-### City center: the nearer to the center, the more expensive.
-### Latitude and Longitude: The orientation of the house also impacts in the price. (e.g the houses oriented to the east are expensive)
+The features that have the most impact on the price are:
+Floor area: It's the most important feature to decide the price.(e.g if you want a huge building space the price will be higher.)
+Post code: the price increase depending on which Post code do you want to live(e.g near the coast or the CBD are expensive)
+City center: the nearer to the center, the more expensive.
+Latitude and Longitude: The orientation of the house also impacts in the price. (e.g the houses oriented to the east are expensive)
   
 
