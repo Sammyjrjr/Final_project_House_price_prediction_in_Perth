@@ -25,7 +25,7 @@ The dataset consists of a random sample of all Off-White x Nike and Yeezy 350 sn
 
 
 # Presentation
-- [Canva]https://www.canva.com/design/DAFXssrx83o/yp4D8Bnn8RRqftFkCha7TQ/edit?utm_content=DAFXssrx83o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- [Canva](https://www.canva.com/design/DAFXssrx83o/yp4D8Bnn8RRqftFkCha7TQ/edit?utm_content=DAFXssrx83o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 # Methods and Tools used
 - Pandas
