@@ -2,7 +2,6 @@
 
 This project was a part of the Ironhack Data Analysis Bootcamp 2022 at Ironhack.
 
-# header H1
 ## Table of contents:
 * [Project Description](#Project Description)
 * [About the Dataset](#About the Dataset)
@@ -19,7 +18,6 @@ This project was a part of the Ironhack Data Analysis Bootcamp 2022 at Ironhack.
 
 
 
-# header H1
 * Methods and Tools used:
 * Pandas
 * Numpy
