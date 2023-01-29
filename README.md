@@ -10,7 +10,7 @@
 
 
 # Project Description
-This was my final project about the sold houses in Perth between 1990 and 2020.
+The project consists in houses prices in Perth between 1990 and 2020.
 
 
 
